@@ -2,8 +2,8 @@
 
 PARTIE 5:
 
-Dans cette partie, on va créer un serveur multi-Threads qui font une conversation entre plusieurs clients.
-le serveur transforme le message envoyé par un client aux autres clients.
+Dans cette partie, on va créer un serveur multi-Threads qui calcul la longueur d'une chaine de caractère envoyé par le client.
+puis le serveur envoie la réponse au client.
 
 ![image](https://user-images.githubusercontent.com/61559275/159786349-71e684e0-1e26-4bc5-b0e6-f3d0d27e8952.png)
 
@@ -19,8 +19,8 @@ puis envoie la réponse au client.
 
 PARTIE 7:
 
-Dans cette partie on va créer un serveur de chat et multi-Threads, le but de cette serveur est converter tout les messages envoyé par un client
-à les autres client.
+Dans cette partie on va créer un serveur de chat et multi-Threads qui font une conversation entre plusieurs clients.
+le but de ce serveur est transformer tout les messages envoyé par un client à les autres client.
 Voici un exemple : 
 
 ![image](https://user-images.githubusercontent.com/61559275/159869771-9985bfe9-e4a7-449b-b822-5ae8f6c31b71.png)
