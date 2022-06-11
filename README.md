@@ -1,5 +1,12 @@
 # tp_pro_res
 
+# *****************************************************
+# Zakaria EL Idrissi
+# Master Intelligence Artificiel et Analyse De Données
+# Faculté des sciences Meknès
+# zak.elidrissi@edu.umi.ac.ma
+# *****************************************************
+
 <h1> PARTIE 5: </h1>
 
 <p> Dans cette partie, on va créer un serveur multi-Threads qui calcul la longueur d'une chaine de caractère envoyé par le client. <br>
